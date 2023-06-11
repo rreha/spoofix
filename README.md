@@ -8,4 +8,4 @@ spoofix is a PSP homebrew that fixes the "The system version of your PSP™ syst
 </p>
 <br/><br/>
 It also has a backup detection so if anything goes wrong for some reason you can just rerun the program. The program will automatically replace the system's unspoofed version.txt with your old one. <br/>
-The program was tested many times on my PSP 1003 running the 5.50 GEN-D3 firmware.
+The program was tested many times on my PSP 1003 running the 5.50 GEN-D3 & 6.61 PRO-C2 firmware.
