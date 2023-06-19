@@ -5,6 +5,8 @@
 <p align="center">
   <img src="./xmb.png">
 </p><br/><br/>
+THIS PROGRAM IS NO LONGER IN DEVELOPMENT AND IT WILL NOT RECIEVE ANY UPDATES, it was just a practice project for myself anyway, i thought i had an original idea but it seems like Yoti fixed the issue waay back in 2011, use their version.txt switcher instead
+<br/><br/>
 spoofix is a PSP homebrew that fixes the "The system version of your PSP™ system version is 9.90. There is no need to update" issue on 5.50 GEN-D firmwares. This homebrew program basically backs up your system's verison.txt to your Memory Stick, then replaces the system's version.txt with the unspoofed one. This allows you to unspoof your firmware from 9.90 to 5.50 so you can update your PSP without any issues. <br/><br/>
 <p align="center">
   <img src="./990.png">
